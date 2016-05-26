@@ -1,0 +1,33 @@
+$topGray: #29292a;
+$lightGray: #747477;
+
+p {
+  color: $lightGray;
+  font-family: "lato";
+}
+img {
+  height: 100%;
+}
+.aboveHeader{
+  height: 300px;
+  width: 100%;
+  background: $topGray;
+  display:flex;
+}
+.contactInfo{
+  height: 300px;
+}
+.phoneIcon{
+  height: 300px;
+}
+.mailIcon{
+height: 300px;
+}
+.fbIcon{
+  height: 300px;
+}
+body{
+  background: $lightGray;
+  height: 900px;
+  width: 100%;
+}

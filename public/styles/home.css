@@ -1,0 +1,31 @@
+p {
+  color: #747477;
+  font-family: "lato"; }
+
+img {
+  height: 100%; }
+
+.aboveHeader {
+  height: 300px;
+  width: 100%;
+  background: #29292a;
+  display: flex; }
+
+.contactInfo {
+  height: 300px; }
+
+.phoneIcon {
+  height: 300px; }
+
+.mailIcon {
+  height: 300px; }
+
+.fbIcon {
+  height: 300px; }
+
+body {
+  background: #747477;
+  height: 900px;
+  width: 100%; }
+
+/*# sourceMappingURL=home.css.map */
