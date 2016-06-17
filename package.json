@@ -1,0 +1,25 @@
+{
+  "name": "dyeclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaceb/dyeClone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaceb/dyeClone/issues"
+  },
+  "homepage": "https://github.com/jaceb/dyeClone#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-watch": "^4.3.6"
+  }
+}
